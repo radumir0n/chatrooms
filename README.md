@@ -1,4 +1,4 @@
-# The application can be accessed via the following link: https://chatapp-rooms.netlify.app/
+## The application can be accessed via the following link: https://chatapp-rooms.netlify.app/
 
 ## User login
 
